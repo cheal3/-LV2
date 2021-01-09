@@ -6,7 +6,7 @@ function solution(bridge_length, weight, truck_weights) {
     var popTime = []
     var truck = truck_weights.length
     var elapsedSec = 1;
-    var prevSum = 0;
+    
     passing.push(truck_weights.shift());
     popTime.push(elapsedSec + bridge_length)
     
