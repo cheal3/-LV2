@@ -1,6 +1,9 @@
-# -LV2
-알고리즘 공부
+# -LV1
+✅
+**두개뽑아서더하기** https://programmers.co.kr/learn/courses/30/lessons/68644
 
+
+# -LV2
 
 ✅
 
