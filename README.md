@@ -5,6 +5,7 @@
 
 **다트게임**  https://programmers.co.kr/learn/courses/30/lessons/17682
 
+**완주하지못한선수** https://programmers.co.kr/learn/courses/30/lessons/42576?language=javascript
 
 
 # -LV2
