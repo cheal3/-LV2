@@ -6,13 +6,17 @@
 
 ✅
 
-[두개뽑아서더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
 
-[다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+[다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
 
-[완주하지못한선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)
+[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=javascript)
 
-[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862#qna)
+[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+
+[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+
+[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 
 # -LV2
 
@@ -24,4 +28,4 @@
 
 [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
 
-[다리를지나는트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
