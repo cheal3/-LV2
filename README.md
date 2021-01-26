@@ -36,5 +36,5 @@
 
 ----------
 
-[1065](https://www.acmicpc.net/problem/1065) 
+[1065](https://www.acmicpc.net/problem/1065) [4673](https://www.acmicpc.net/problem/4673)
 
