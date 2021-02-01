@@ -1,5 +1,5 @@
 ----------
-프로그래머스
+💻프로그래머스
 
 ----------
 # -LV1
@@ -32,9 +32,15 @@
 
 
 ----------
-백준
+💻백준
 
 ----------
 
-[1065](https://www.acmicpc.net/problem/1065) [4673](https://www.acmicpc.net/problem/4673) [2941](https://www.acmicpc.net/problem/2941) [1316](https://www.acmicpc.net/problem/1316) [2447](https://www.acmicpc.net/problem/2447) [11729](https://www.acmicpc.net/problem/11729)  [7568](https://www.acmicpc.net/problem/7568) [1018](https://www.acmicpc.net/problem/1018)
+[1065](https://www.acmicpc.net/problem/1065) [4673](https://www.acmicpc.net/problem/4673) [2941](https://www.acmicpc.net/problem/2941) [1316](https://www.acmicpc.net/problem/1316) [2447](https://www.acmicpc.net/problem/2447) [11729](https://www.acmicpc.net/problem/11729)  [7568](https://www.acmicpc.net/problem/7568) [1018](https://www.acmicpc.net/problem/1018) [2751](https://www.acmicpc.net/problem/2751) [1427](https://www.acmicpc.net/problem/1427)
 
+----------
+💻SWEA
+
+----------
+
+[1289](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)
