@@ -37,11 +37,11 @@
 ----------
 
 [1065](https://www.acmicpc.net/problem/1065) [4673](https://www.acmicpc.net/problem/4673) [2941](https://www.acmicpc.net/problem/2941) [1316](https://www.acmicpc.net/problem/1316) [2447](https://www.acmicpc.net/problem/2447) [11729](https://www.acmicpc.net/problem/11729)  [7568](https://www.acmicpc.net/problem/7568) [1018](https://www.acmicpc.net/problem/1018) [2751](https://www.acmicpc.net/problem/2751) [1427](https://www.acmicpc.net/problem/1427) [17478](https://www.acmicpc.net/problem/17478)
-[10989](https://www.acmicpc.net/problem/10989) [11650](https://www.acmicpc.net/problem/11650)
+[10989](https://www.acmicpc.net/problem/10989) [11650](https://www.acmicpc.net/problem/11650) [2108](https://www.acmicpc.net/problem/2108) [1181](https://www.acmicpc.net/problem/1181) [4949](https://www.acmicpc.net/problem/4949) [1874](https://www.acmicpc.net/problem/1874)
 
 ----------
 💻SWEA
 
 ----------
 
-[1289](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)
+[1289](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) [2001](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) [2805](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) [1954](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)
