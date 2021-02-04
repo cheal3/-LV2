@@ -44,4 +44,4 @@
 
 ----------
 
-[1289](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) [2001](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) [2805](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) [1954](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)
+[1289](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN) [2001](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) [2805](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) [1954](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do) [1218](https://swexpertacademy.com/main/solvingProblem/solvingProblem.do)
