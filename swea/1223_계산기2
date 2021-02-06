@@ -1,0 +1,62 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.Stack;
+
+public class Solution_1223 {
+	public static void main(String[] args) throws Exception {
+		StringBuilder sb = new StringBuilder("");
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
+		
+
+		for (int i = 1; i <= 10; i++) {
+			br.readLine();
+			Stack<Integer> operand = new Stack<>();
+			Stack<Character> operator = new Stack<>();
+			StringBuilder pf = new StringBuilder("");
+			sb.append("#").append(i).append(" ");
+			String s = br.readLine();
+			boolean beforeMulti = false;
+			for (char c : s.toCharArray()) {
+				if (beforeMulti == true) {
+					pf.append(c).append("*");
+					beforeMulti = false;
+					continue;
+				}
+				if (c == '*') {
+					beforeMulti = true;
+				} else if (c == '+') {
+					operator.push(c);
+				} else {
+					pf.append(c);
+				}
+
+			}
+			while (!operator.isEmpty()) {
+				pf.append(operator.pop());
+			}
+		//	System.out.println(pf);
+			for (char c : pf.toString().toCharArray()) {
+				if (0 <= c - '0' && c - '0' <= 9) {
+					operand.push(c - '0');
+				} else {
+					if (c == '*') {
+						operand.push(operand.pop() * operand.pop());
+					} else {
+						operator.push(c);
+					}
+				}
+
+			}
+			while (!operator.isEmpty()) {
+				operator.pop();
+				operand.push(operand.pop()+operand.pop() );		
+			}
+			
+			sb.append(operand.pop()).append("\n");
+			//System.out.println(operand.pop());
+			
+		}
+		System.out.print(sb);
+	}
+}
