@@ -54,6 +54,7 @@
 [4949](https://www.acmicpc.net/problem/4949)
 [1874](https://www.acmicpc.net/problem/1874)
 [17298](https://www.acmicpc.net/problem/17298)
+[1966](https://www.acmicpc.net/problem/1966)
 
 ----------
 💻SWEA
@@ -66,3 +67,5 @@
 [1954](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq)
 [1218](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD)
 [3499](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
+[1233](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
+[1223](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD)
