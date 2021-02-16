@@ -63,6 +63,8 @@
 [10971](https://www.acmicpc.net/problem/10971)
 [1062](https://www.acmicpc.net/problem/1062)
 [3040](https://www.acmicpc.net/problem/3040)
+[2839](https://www.acmicpc.net/problem/2839)
+[9663](https://www.acmicpc.net/problem/9663)
 
 ----------
 💻SWEA
