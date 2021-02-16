@@ -65,6 +65,7 @@
 [3040](https://www.acmicpc.net/problem/3040)
 [2839](https://www.acmicpc.net/problem/2839)
 [9663](https://www.acmicpc.net/problem/9663)
+[1182](https://www.acmicpc.net/problem/1182)
 
 ----------
 💻SWEA
