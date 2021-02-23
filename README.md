@@ -73,6 +73,7 @@
 [1987](https://www.acmicpc.net/problem/1987)
 [2294](https://www.acmicpc.net/problem/2294)
 [1912](https://www.acmicpc.net/problem/1912)
+[10163](https://www.acmicpc.net/problem/10163)
 
 ----------
 💻SWEA
