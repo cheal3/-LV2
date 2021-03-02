@@ -74,6 +74,12 @@
 [2294](https://www.acmicpc.net/problem/2294)
 [1912](https://www.acmicpc.net/problem/1912)
 [10163](https://www.acmicpc.net/problem/10163)
+[13300](https://www.acmicpc.net/problem/13300)
+[2477](https://www.acmicpc.net/problem/2477)
+[14696](https://www.acmicpc.net/problem/14696)
+[1904](https://www.acmicpc.net/problem/1904)
+[1149](https://www.acmicpc.net/problem/1149)
+
 
 ----------
 💻SWEA
